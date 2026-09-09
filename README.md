@@ -1,5 +1,6 @@
 # Atlantic STCs
-This repository holds analysis performed by Laura Verona, which contributes to a manuscript.
+This repository holds analysis performed by Laura Verona, which contributes to a manuscript: "Verona, L., Marcello, F., Khodri, M., & Wainer, I. (2026).
+*Modern asymmetrical changes in the Atlantic Subtropical Cells from the IPSL past2k ensemble*. Journal of Geophysical Research: Oceans." The citation will be updated with the article DOI upon publication.
 
 ## Data
 IPSLpast2k ensemble run by MK at IPSL
