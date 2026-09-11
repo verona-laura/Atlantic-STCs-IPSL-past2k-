@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "Analysis scripts for Atlantic Subtropical Cells from the IPSL past2k ensemble"
+authors:
+  - family-names: "Verona"
+    given-names: "Laura"
+version: 1.0.0
+date-released: 2026-09-11
+repository-code: "https://github.com/verona-laura/Atlantic-STCs-IPSL-past2k-"
+type: software
